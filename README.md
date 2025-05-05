@@ -2,11 +2,11 @@
 
 📌 Dados:
 
-🎆Disciplina: Programação Orientada a Objetos
+🎇Disciplina: Programação Orientada a Objetos
 
-🎆Professor: Roger Moura Sarmento
+🎇Professor: Roger Moura Sarmento
 
-🎆Instituição: IFCE Campus Maranguape
+🎇Instituição: IFCE Campus Maranguape
 
 
 
@@ -14,7 +14,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#🖥️​ Linguagem Utilizada:
+🖥️​ Linguagem Utilizada:
 
 
 ☕ Java
