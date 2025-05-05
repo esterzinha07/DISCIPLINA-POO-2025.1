@@ -1,5 +1,18 @@
 # DISCIPLINA-POO-2025.1
 
+📌 Dados:
+🎆Disciplina: Programação Orientada a Objetos
+
+🎆Professor: Roger Moura Sarmento
+
+🎆Instituição: IFCE Campus Maranguape
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🖥️​ Linguagem Utilizada:
+☕ Java
+
+
+
  Listas de POO.
 
  
